@@ -10,6 +10,7 @@ environment:
 
 dependencies:
   html: ^0.14.0
+  extended_text: ^0.6.6
   flutter:
     sdk: flutter
 
